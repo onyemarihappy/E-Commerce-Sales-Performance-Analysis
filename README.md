@@ -186,25 +186,46 @@ Seven prioritised, actionable business recommendations were synthesised from the
 
 ## 💡 Key Insights
 
-> **1. UK Market Dominance — Geographic Concentration Risk**
+**1. UK Market Dominance — Geographic Concentration Risk**
+> 
+![Top Countries by Revenue](charts/02_top_countries.png)
+
 > 83% of total revenue originates from a single market (United Kingdom). This level of geographic concentration constitutes material strategic risk if domestic demand softens.
 
-> **2. Q4 Seasonality — Narrow Revenue Window**
+**2. Q4 Seasonality — Narrow Revenue Window**
+> 
+![Q4 Seasonality](charts/01_monthly_revenue.png)
+
 > Revenue spikes sharply in October–November, driven by Christmas gifting preparation. The business is disproportionately dependent on a 6–8 week trading window, creating both an opportunity and an operational vulnerability.
 
-> **3. Champions Drive ~70% of Revenue — Pareto Concentration**
+**3. Champions Drive ~70% of Revenue — Pareto Concentration**
+>
+![Champions Drive](charts/10_rfm_segments.png)
+> 
 > Just 934 customers (the Champions RFM segment) generated approximately £6.25M. Losing even a fraction of this segment would have an outsized negative impact on total revenue.
 
-> **4. Low First-Month Retention — Retention is the #1 Growth Lever**
+**4. Low First-Month Retention — Retention is the #1 Growth Lever**
+>
+> ![Low First-Month Retention](charts/09_cohort_retention.png)
+> 
 > Average month-1 retention sits at just 20–25%, declining steeply thereafter. The first 30 days post-acquisition represent the most critical and currently under-utilised engagement window.
 
-> **5. Thursday is the Peak Trading Day**
+**5. Thursday is the Peak Trading Day**
+>
+> ![Thursday is Peak Trading Day](charts/03_day_of_week.png)
+> 
 > Thursday consistently records the highest single-day revenue across all months in the analysis period, presenting a clear opportunity for campaign timing alignment.
 
-> **6. ~35% of Customers Are One-Time Buyers**
+**6. ~35% of Customers Are One-Time Buyers**
+>
+> ![35% One-Time Buyers](charts/05_purchase_frequency.png)
+> 
 > A significant proportion of the customer base makes a single purchase and does not return. Given the cost of customer acquisition, first-to-second purchase conversion is a high-ROI retention opportunity.
 
-> **7. AOV Rises Materially in Q4 — Upsell Window Exists**
+**7. AOV Rises Materially in Q4 — Upsell Window Exists**
+>
+> ![AOV Rises in Q4](charts/04_aov_monthly.png)
+>
 > Average Order Value increases significantly during Q4 due to larger gift-driven basket sizes. This seasonal AOV uplift is not yet being systematically exploited through upsell or bundle strategies.
 
 ---
