@@ -11,8 +11,12 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+---
+![E-Commerce Dashboard](dashboard/ecommerce_dashboard.PNG)
 
 ---
+
+
 
 ## 📖 Table of Contents
 
